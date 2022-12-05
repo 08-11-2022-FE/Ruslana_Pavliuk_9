@@ -1,5 +1,5 @@
 .body {
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 600;
 }
@@ -32,6 +32,8 @@
     line-height: 28px;
     color: #2F281E;
     font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
 }
 .header-nav a:first-child {
    color: #FF9900;
@@ -74,8 +76,9 @@
 
 /* styles for section hero */
 .hero {
-    padding-top: 75px;
-    padding-bottom: 111px;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    height: 495px;
 }
 .hero_info {
     max-width: 41.6%;
